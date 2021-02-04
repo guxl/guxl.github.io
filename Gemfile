@@ -36,3 +36,7 @@ gem "wdm", "~> 0.1.0", :install_if => Gem.win_platform?
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
 
+
+# bundle exec jekyll serve   本地预览网站
+# bundle update github-pages  更新github页面
+
