@@ -12,5 +12,5 @@ permalink: /favorite/
 - [MarkDown 空格](https://blog.csdn.net/dzy_mails/article/details/67640229)
 
 # autocad
--[移动块内的文字](https://www.keanw.com/2013/12/moving-text-in-an-autocad-block-using-net-part-2.html)
+- [移动块内的文字](https://www.keanw.com/2013/12/moving-text-in-an-autocad-block-using-net-part-2.html)
 
