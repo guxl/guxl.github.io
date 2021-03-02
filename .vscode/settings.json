@@ -1,0 +1,32 @@
+
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": [
+        "/E:ON",
+        "/K",
+        "C:\\Ruby27-x64\\bin\\setrbvars.cmd"
+    ],
+    "shellLauncher.shells.windows": [
+        {
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "label": "cmd"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "label": "PowerShell"
+        },
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git bash"
+        },
+        {
+            "shell": "C:\\Windows\\System32\\cmd.exe",
+            "args": [
+                "/E:ON",
+                "/K",
+                "C:\\Ruby27-x64\\bin\\setrbvars.cmd"
+            ],
+            "label": "Ruby"
+        }
+    ]
+}
