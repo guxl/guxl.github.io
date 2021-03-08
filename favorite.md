@@ -20,3 +20,9 @@ permalink: /favorite/
 
 - [矩阵计算器](https://matrixcalc.org/zh/)
 
+# WPF
+- [开发WPF时常用的工具]{https://www.cnblogs.com/dino623/p/tools_for_wpf.html}
+- [10个用于C＃.NET开发的基本调试工具]{https://www.cnblogs.com/sesametech-netcore/p/12365896.html}
+- [自定义控件库系列文章]{https://www.cnblogs.com/dino623/p/WPFCustomControlBlogs.html}
+- [WPF 开源项目]{https://www.zhihu.com/question/19885862}
+
